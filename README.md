@@ -25,6 +25,13 @@ python -m pip install -r requirements.txt
 ```bash
 python mail_merge.py
 ```
+1. Load the source excel
+2. Fill the SMTP details
+3. Write the email
+
+To add fields: Select the field name from the field list, then click Insert field button above the letter.
+
+4. Click Send
 
 ## Notes
 
